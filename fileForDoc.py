@@ -1,8 +1,8 @@
 # necessary Imports
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import pickle
-% matpllotlib inline
 
 df= pd.read_csv('Admission_Prediction.csv') # reading the CSV file
 
